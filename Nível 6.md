@@ -89,9 +89,9 @@ As datas de admissão foram revisadas para garantir consistência no formato.
 
 | Nº  | Ação                          | Resultado                                           |
 | --- | ----------------------------- | --------------------------------------------------- |
-| 6.1 | Novo departamento criado      | **Inovações** no Wayne Offices, 0 funcionários      |
+| 6.1 | Novo departamento             | **Inovações** no Wayne Offices, 0 funcionários      |
 | 6.2 | Transferência de funcionários | 2 funcionários de Tecnologia movidos para Inovações |
-| 6.3 | Aumento salarial              | Funcionários de Tecnologia receberam **+10%**       |
+| 6.3 | Aumento do salario            | Funcionários de Tecnologia receberam **+10%**       |
 | 6.4 | Promoção individual           | Bruce Ernst: **Senior Web Developer**, $5.000       |
 | 6.5 | Novo suprimento               | Headsets adicionados: 15 unidades, $150 cada        |
 | 6.6 | Aposentadoria                 | Funcionários contratados antes de 1990 removidos    |
