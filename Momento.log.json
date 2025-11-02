@@ -1,0 +1,240 @@
+[{
+  "_id": {
+    "$oid": "68ef93a62d09eac83741df6b"
+  },
+  "acao": "Login",
+  "data": "2023-01-15 08:45:02",
+  "usuario": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e42"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ef93a62d09eac83741df6c"
+  },
+  "acao": "Login",
+  "data": "2023-01-15 08:51:24",
+  "usuario": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e43"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ef93a62d09eac83741df6d"
+  },
+  "acao": "Login",
+  "data": "2023-01-15 09:01:00",
+  "usuario": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e44"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ef93a62d09eac83741df6e"
+  },
+  "acao": "Login",
+  "data": "2023-01-15 09:18:00",
+  "usuario": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e45"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ef93a62d09eac83741df6f"
+  },
+  "acao": "Login",
+  "data": "2023-01-15 09:32:00",
+  "usuario": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e46"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ef93a62d09eac83741df70"
+  },
+  "acao": "Login",
+  "data": "2023-01-15 09:31:24",
+  "usuario": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e47"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ef93a62d09eac83741df71"
+  },
+  "acao": "Login",
+  "data": "2023-01-15 09:47:01",
+  "usuario": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e48"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ef93a62d09eac83741df72"
+  },
+  "acao": "Login",
+  "data": "2023-01-15 09:52:00",
+  "usuario": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e49"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ef93a62d09eac83741df73"
+  },
+  "acao": "Login",
+  "data": "2023-01-15 10:32:00",
+  "usuario": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e4a"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ef93a62d09eac83741df74"
+  },
+  "acao": "Login",
+  "data": "2023-01-15 12:00:29",
+  "usuario": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e4b"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ef93a62d09eac83741df75"
+  },
+  "acao": "Login",
+  "data": "2023-01-15 14:19:13",
+  "usuario": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e4c"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ef93a62d09eac83741df76"
+  },
+  "acao": "Login",
+  "data": "2023-01-15 17:57:19",
+  "usuario": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e4d"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ef93a62d09eac83741df77"
+  },
+  "acao": "Login",
+  "data": "2023-01-15 18:32:29",
+  "usuario": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e4e"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ef93a62d09eac83741df78"
+  },
+  "acao": "Login",
+  "data": "2023-01-15 19:00:01",
+  "usuario": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e4f"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ef93a62d09eac83741df79"
+  },
+  "acao": "Solicitou a Alteração de Senha",
+  "data": "2023-01-15 08:25:33",
+  "usuario": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e42"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ef93a62d09eac83741df7a"
+  },
+  "acao": "Solicitou a Alteração de Senha",
+  "data": "2023-01-15 08:47:22",
+  "usuario": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e43"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ef93a62d09eac83741df7b"
+  },
+  "acao": "Solicitou a Alteração de Senha",
+  "data": "2023-01-15 09:05:00",
+  "usuario": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e44"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ef93a62d09eac83741df7c"
+  },
+  "acao": "Solicitou a Alteração de Senha",
+  "data": "2023-01-15 09:45:18",
+  "usuario": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e45"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ef93a62d09eac83741df7d"
+  },
+  "acao": "Solicitou a Alteração de Senha",
+  "data": "2023-01-15 09:45:33",
+  "usuario": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e46"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ef93a62d09eac83741df7e"
+  },
+  "acao": "Solicitou a Alteração de Senha",
+  "data": "2023-01-15 09:51:17",
+  "usuario": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e47"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ef93a62d09eac83741df7f"
+  },
+  "acao": "Solicitou a Alteração de Senha",
+  "data": "2023-01-15 09:51:19",
+  "usuario": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e48"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ef93a62d09eac83741df80"
+  },
+  "acao": "Solicitou a Alteração de Senha",
+  "data": "2023-01-15 09:51:19",
+  "usuario": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e49"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ef93a62d09eac83741df81"
+  },
+  "acao": "Solicitou a Alteração de Senha",
+  "data": "2023-01-15 11:45:29",
+  "usuario": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e4a"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ef93a62d09eac83741df82"
+  },
+  "acao": "Solicitou a Alteração de Senha",
+  "data": "2023-01-15 13:13:21",
+  "usuario": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e4b"
+  }
+}]

@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "85992103f9b3e0b3b3c1fe70"
+  },
+  "nome": "Executivo",
+  "escritorio": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e3e"
+  }
+},
+{
+  "_id": {
+    "$oid": "85992103f9b3e0b3b3c1fe71"
+  },
+  "nome": "Vendas",
+  "escritorio": {
+    "$oid": "5992103f9b3e0b3b3c1e3e3f"
+  }
+},
+{
+  "_id": {
+    "$oid": "85992103f9b3e0b3b3c1fe72"
+  },
+  "nome": "Marketing",
+  "escritorio": {
+    "$oid": "5992103f9b3e0b3b3c1e3e40"
+  }
+},
+{
+  "_id": {
+    "$oid": "85992103f9b3e0b3b3c1fe73"
+  },
+  "nome": "Financeiro",
+  "escritorio": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e3e"
+  }
+},
+{
+  "_id": {
+    "$oid": "85992103f9b3e0b3b3c1fe74"
+  },
+  "nome": "Tecnologia",
+  "escritorio": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e3e"
+  }
+},
+{
+  "_id": {
+    "$oid": "85992103f9b3e0b3b3c1fe75"
+  },
+  "nome": "Recursos Humanos",
+  "escritorio": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e3e"
+  }
+},
+{
+  "_id": {
+    "$oid": "85992103f9b3e0b3b3c1fe76"
+  },
+  "nome": "Dados",
+  "escritorio": {
+    "$oid": "5992103f9b3e0b3b3c1e3e40"
+  }
+},
+{
+  "_id": {
+    "$oid": "68efd0b5a8a7bd89c14eb64f"
+  },
+  "nome": "Inovações",
+  "escritorio": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e3e"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f5b1cf5314f19b00962e80"
+  },
+  "nome": "Operações LATAM",
+  "escritorio": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e42"
+  }
+}]

@@ -1,0 +1,752 @@
+[{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e42"
+  },
+  "nome": "Elisabeth Braddock",
+  "telefone": "515.123.5555",
+  "email": "e.braddock@momento.org",
+  "dataAdmissao": {
+    "$date": "1996-02-17T00:00:00.000Z"
+  },
+  "cargo": "CEO",
+  "salario": 71000,
+  "departamento": {
+    "$oid": "85992103f9b3e0b3b3c1fe70"
+  },
+  "escritorio": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e3e"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e43"
+  },
+  "nome": "Pat Ferreira",
+  "telefone": "603.123.6666",
+  "email": "p.ferreira@momento.org",
+  "dataAdmissao": {
+    "$date": "1997-08-17T00:00:00.000Z"
+  },
+  "cargo": "Representante de Vendas para a América Latina",
+  "salario": 34000,
+  "departamento": {
+    "$oid": "85992103f9b3e0b3b3c1fe71"
+  },
+  "dependentes": {
+    "filhos": [
+      {
+        "nome": "João Ferreira",
+        "dataNascimento": "2000-01-01",
+        "documento": "123.456.789-00"
+      },
+      {
+        "nome": "Maria Ferreira",
+        "dataNascimento": "2002-02-02",
+        "documento": "123.456.789-01"
+      }
+    ],
+    "conjuge": {
+      "nome": "Ana Ferreira",
+      "dataNascimento": "1975-03-03",
+      "documento": "123.456.789-02"
+    }
+  },
+  "escritorio": {
+    "$oid": "5992103f9b3e0b3b3c1e3e3f"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e44"
+  },
+  "nome": "Alexander Hunold",
+  "telefone": "590.423.4567",
+  "email": "a.hunold@momento.org",
+  "dataAdmissao": {
+    "$date": "2008-01-03T00:00:00.000Z"
+  },
+  "cargo": "Web Developer",
+  "salario": 3500,
+  "departamento": {
+    "$oid": "85992103f9b3e0b3b3c1fe74"
+  },
+  "escritorio": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e3e"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e45"
+  },
+  "nome": "Bruce Ernst",
+  "telefone": "590.423.4568",
+  "email": "b.ernst@momento.org",
+  "dataAdmissao": {
+    "$date": "2005-05-21T00:00:00.000Z"
+  },
+  "cargo": "Senior Web Developer",
+  "salario": 5000,
+  "departamento": {
+    "$oid": "85992103f9b3e0b3b3c1fe74"
+  },
+  "dependentes": {
+    "filhos": [
+      {
+        "nome": "Bruce Ernst Jr.",
+        "dataNascimento": "2000-01-01",
+        "documento": "123.456.789-00"
+      }
+    ]
+  },
+  "escritorio": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e3e"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e46"
+  },
+  "nome": "David Austin",
+  "telefone": "590.423.4569",
+  "email": "d.austin@momento.org",
+  "dataAdmissao": {
+    "$date": "2000-06-25T00:00:00.000Z"
+  },
+  "cargo": "Web Developer",
+  "salario": 4100,
+  "departamento": {
+    "$oid": "85992103f9b3e0b3b3c1fe74"
+  },
+  "dependentes": {
+    "conjuge": {
+      "nome": "Mary Austin",
+      "dataNascimento": "1975-03-03",
+      "documento": "123.456.789-02"
+    }
+  },
+  "escritorio": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e3e"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e47"
+  },
+  "nome": "Valli Stark",
+  "telefone": "590.423.4560",
+  "email": "v.stark@momento.org",
+  "dataAdmissao": {
+    "$date": "2009-02-05T00:00:00.000Z"
+  },
+  "salario": 19532,
+  "cargo": "Líder de Projeto de IA",
+  "departamento": {
+    "$oid": "68efd0b5a8a7bd89c14eb64f"
+  },
+  "dependentes": {
+    "filhos": [
+      {
+        "nome": "Tony Stark",
+        "dataNascimento": "2000-01-01",
+        "documento": "123.456.789-00"
+      }
+    ],
+    "conjuge": {
+      "nome": "Pepper Potts",
+      "dataNascimento": "1975-03-03",
+      "documento": "123.456.789-02"
+    }
+  },
+  "escritorio": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e3e"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e48"
+  },
+  "nome": "Diana Lorentz",
+  "telefone": "590.423.5567",
+  "email": "d.lorentz@momento.org",
+  "dataAdmissao": {
+    "$date": "1999-02-07T00:00:00.000Z"
+  },
+  "cargo": "Diretora de Inovação",
+  "salario": 20434,
+  "departamento": {
+    "$oid": "68efd0b5a8a7bd89c14eb64f"
+  },
+  "dependentes": {
+    "filhos": [
+      {
+        "nome": "Diana Lorentz Jr.",
+        "dataNascimento": "2000-01-01",
+        "documento": "123.456.789-00"
+      }
+    ],
+    "conjuge": {
+      "nome": "Steve Rogers",
+      "dataNascimento": "1975-03-03",
+      "documento": "123.456.789-02"
+    }
+  },
+  "escritorio": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e3e"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e49"
+  },
+  "nome": "Matthew Weiss",
+  "telefone": "650.123.1234",
+  "email": "m.weiss@momento.org",
+  "dataAdmissao": {
+    "$date": "1996-07-18T00:00:00.000Z"
+  },
+  "cargo": "Gerente de Estoque",
+  "salario": 14000,
+  "departamento": {
+    "$oid": "85992103f9b3e0b3b3c1fe75"
+  },
+  "escritorio": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e3e"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e4a"
+  },
+  "nome": "Adam Fripp",
+  "telefone": "650.123.2234",
+  "email": "a.fripp@momento.org",
+  "dataAdmissao": {
+    "$date": "1997-04-10T00:00:00.000Z"
+  },
+  "cargo": "Gerente de Estoque",
+  "salario": 9800,
+  "departamento": {
+    "$oid": "85992103f9b3e0b3b3c1fe75"
+  },
+  "escritorio": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e3e"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e4b"
+  },
+  "nome": "Payam Kaufling",
+  "telefone": "650.123.3234",
+  "email": "payam.kaufling@momento.org",
+  "dataAdmissao": {
+    "$date": "1995-05-01T00:00:00.000Z"
+  },
+  "cargo": "Vendas",
+  "salario": 9600,
+  "departamento": {
+    "$oid": "85992103f9b3e0b3b3c1fe71"
+  },
+  "escritorio": {
+    "$oid": "5992103f9b3e0b3b3c1e3e3f"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e4c"
+  },
+  "nome": "Shanta Vollman",
+  "telefone": "650.123.4234",
+  "email": "shanta.vollman@momento.org",
+  "dataAdmissao": {
+    "$date": "1997-10-10T00:00:00.000Z"
+  },
+  "cargo": "Gerente de Estoque",
+  "salario": 9700,
+  "departamento": {
+    "$oid": "85992103f9b3e0b3b3c1fe75"
+  },
+  "escritorio": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e3e"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e4e"
+  },
+  "nome": "Sarah Bell",
+  "telefone": "650.501.1876",
+  "email": "sarah.bell@momento.org",
+  "dataAdmissao": {
+    "$date": "1996-02-04T00:00:00.000Z"
+  },
+  "cargo": "Consultor de Vendas",
+  "salario": 7900,
+  "departamento": {
+    "$oid": "85992103f9b3e0b3b3c1fe71"
+  },
+  "dependentes": {
+    "filhos": [
+      {
+        "nome": "John Bell",
+        "dataNascimento": "2000-01-01",
+        "documento": "123.456.789-00"
+      }
+    ],
+    "conjuge": {
+      "nome": "J. Bell",
+      "dataNascimento": "1975-03-03",
+      "documento": "123.456.789-02"
+    }
+  },
+  "escritorio": {
+    "$oid": "5992103f9b3e0b3b3c1e3e3f"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e4f"
+  },
+  "nome": "Britney Everett",
+  "telefone": "650.501.2876",
+  "email": "britney.everett@momento.org",
+  "dataAdmissao": {
+    "$date": "1997-03-03T00:00:00.000Z"
+  },
+  "cargo": "Consultor de Vendas",
+  "salario": 7600,
+  "departamento": {
+    "$oid": "85992103f9b3e0b3b3c1fe71"
+  },
+  "escritorio": {
+    "$oid": "5992103f9b3e0b3b3c1e3e3f"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e51"
+  },
+  "nome": "Den Raphaely",
+  "telefone": "515.127.4561",
+  "email": "den.raphaely@momento.org",
+  "dataAdmissao": {
+    "$date": "1994-12-07T00:00:00.000Z"
+  },
+  "cargo": "Gerente de Recursos",
+  "salario": 12500,
+  "departamento": {
+    "$oid": "85992103f9b3e0b3b3c1fe75"
+  },
+  "escritorio": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e3e"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e52"
+  },
+  "nome": "Normam Osborn",
+  "telefone": "515.127.4562",
+  "email": "normam.osborn@momento.org",
+  "dataAdmissao": {
+    "$date": "1995-05-18T00:00:00.000Z"
+  },
+  "cargo": "Gerente de Recursos Químicos",
+  "salario": 18080,
+  "departamento": {
+    "$oid": "85992103f9b3e0b3b3c1fe75"
+  },
+  "dependentes": {
+    "filhos": [
+      {
+        "nome": "Harry Osborn",
+        "dataNascimento": "2000-01-01",
+        "documento": "123.456.789-00"
+      }
+    ],
+    "conjuge": {
+      "nome": "Mary Jane Watson",
+      "dataNascimento": "1975-03-03",
+      "documento": "123.456.789-02"
+    }
+  },
+  "escritorio": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e3e"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e53"
+  },
+  "nome": "Alexa Green",
+  "telefone": "515.127.4563",
+  "cargo": "Consultor de Vendas",
+  "salario": 6000,
+  "comissionado": true,
+  "departamento": {
+    "$oid": "85992103f9b3e0b3b3c1fe71"
+  },
+  "dataAdmissao": {
+    "$date": "2010-06-27T00:00:00.000Z"
+  },
+  "escritorio": {
+    "$oid": "5992103f9b3e0b3b3c1e3e3f"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e54"
+  },
+  "nome": "Kelly Chung",
+  "telefone": "515.127.4564",
+  "cargo": "Consultor de Vendas",
+  "salario": 6000,
+  "comissionado": true,
+  "departamento": {
+    "$oid": "85992103f9b3e0b3b3c1fe71"
+  },
+  "dataAdmissao": {
+    "$date": "2019-12-14T00:00:00.000Z"
+  },
+  "escritorio": {
+    "$oid": "5992103f9b3e0b3b3c1e3e3f"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e55"
+  },
+  "nome": "Jenny Tseng",
+  "telefone": "515.127.4565",
+  "cargo": "Consultor de Vendas",
+  "salario": 6000,
+  "comissionado": true,
+  "departamento": {
+    "$oid": "85992103f9b3e0b3b3c1fe71"
+  },
+  "dataAdmissao": {
+    "$date": "2019-02-11T00:00:00.000Z"
+  },
+  "escritorio": {
+    "$oid": "5992103f9b3e0b3b3c1e3e3f"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e56"
+  },
+  "nome": "Michael Hartstein",
+  "telefone": "515.127.4566",
+  "cargo": "Consultor de Vendas",
+  "salario": 6000,
+  "comissionado": true,
+  "departamento": {
+    "$oid": "85992103f9b3e0b3b3c1fe71"
+  },
+  "dataAdmissao": {
+    "$date": "2020-09-13T00:00:00.000Z"
+  },
+  "escritorio": {
+    "$oid": "5992103f9b3e0b3b3c1e3e3f"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e57"
+  },
+  "nome": "Jon Deegan",
+  "telefone": "515.127.4567",
+  "cargo": "Consultor de Vendas",
+  "salario": 6000,
+  "comissionado": true,
+  "departamento": {
+    "$oid": "85992103f9b3e0b3b3c1fe71"
+  },
+  "dataAdmissao": {
+    "$date": "1997-07-16T00:00:00.000Z"
+  },
+  "escritorio": {
+    "$oid": "5992103f9b3e0b3b3c1e3e3f"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e58"
+  },
+  "nome": "Sundar Ande",
+  "telefone": "515.127.4568",
+  "cargo": "Consultor de Vendas",
+  "salario": 6000,
+  "comissionado": true,
+  "departamento": {
+    "$oid": "85992103f9b3e0b3b3c1fe71"
+  },
+  "dataAdmissao": {
+    "$date": "2011-01-14T00:00:00.000Z"
+  },
+  "escritorio": {
+    "$oid": "5992103f9b3e0b3b3c1e3e3f"
+  }
+},
+{
+  "_id": {
+    "$oid": "68efbbe4356f1a9a4e8b3f36"
+  },
+  "nome": "Victoria",
+  "sobrenome": "Marchan",
+  "data_nascimento": {
+    "$date": "2007-07-26T00:00:00.000Z"
+  },
+  "salario": 5000,
+  "departamento": {
+    "$oid": "85992103f9b3e0b3b3c1fe74"
+  },
+  "cargo": "Web Developer",
+  "dataAdmissao": {
+    "$date": "2024-04-12T00:00:00.000Z"
+  },
+  "escritorio": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e3e"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f5770883a4184a518a482e"
+  },
+  "nome": "Maria Lima",
+  "telefone": "11999999991",
+  "email": "mariasabrinalima@momento.org",
+  "dataAdmissao": {
+    "$date": "2025-10-19T23:59:07.322Z"
+  },
+  "cargo": "Analista de Dados",
+  "salario": 8500,
+  "departamento": {
+    "$oid": "85992103f9b3e0b3b3c1fe76"
+  },
+  "escritorio": {
+    "$oid": "5992103f9b3e0b3b3c1e3e40"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f5770883a4184a518a482f"
+  },
+  "nome": "Caroline Del Valle",
+  "telefone": "11999999494",
+  "email": "c.delvalle@momento.org",
+  "dataAdmissao": {
+    "$date": "2025-10-19T23:59:07.322Z"
+  },
+  "cargo": "Cientista de Dados",
+  "salario": 9200,
+  "departamento": {
+    "$oid": "85992103f9b3e0b3b3c1fe76"
+  },
+  "escritorio": {
+    "$oid": "5992103f9b3e0b3b3c1e3e40"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f5770883a4184a518a4830"
+  },
+  "nome": "Ana Clara Campos",
+  "telefone": "11999994583",
+  "email": "a.campos@momento.org",
+  "dataAdmissao": {
+    "$date": "2025-10-19T23:59:07.322Z"
+  },
+  "cargo": "Analista de Marketing",
+  "salario": 7800,
+  "departamento": {
+    "$oid": "85992103f9b3e0b3b3c1fe72"
+  },
+  "escritorio": {
+    "$oid": "5992103f9b3e0b3b3c1e3e40"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f5770883a4184a518a4831"
+  },
+  "nome": "Karina Mendes",
+  "telefone": "11999999994",
+  "email": "k.mendes@momento.org",
+  "dataAdmissao": {
+    "$date": "2025-10-19T23:59:07.322Z"
+  },
+  "cargo": "Especialista em Marketing Digital",
+  "salario": 8200,
+  "departamento": {
+    "$oid": "85992103f9b3e0b3b3c1fe72"
+  },
+  "escritorio": {
+    "$oid": "5992103f9b3e0b3b3c1e3e40"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f5770883a4184a518a4832"
+  },
+  "nome": "Matheus Felipe Paez",
+  "telefone": "11999929516",
+  "email": "m.paez@momento.org",
+  "dataAdmissao": {
+    "$date": "2025-10-19T23:59:07.322Z"
+  },
+  "cargo": "Coordenador de Marketing",
+  "salario": 9000,
+  "departamento": {
+    "$oid": "85992103f9b3e0b3b3c1fe72"
+  },
+  "escritorio": {
+    "$oid": "5992103f9b3e0b3b3c1e3e40"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f5770883a4184a518a4833"
+  },
+  "nome": "Eliza Oliveira",
+  "telefone": "11999999996",
+  "email": "eliza.h@momento.org",
+  "dataAdmissao": {
+    "$date": "2025-10-19T23:59:07.322Z"
+  },
+  "cargo": "Analista Financeiro",
+  "salario": 8800,
+  "departamento": {
+    "$oid": "85992103f9b3e0b3b3c1fe73"
+  },
+  "escritorio": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e3e"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f5770883a4184a518a4834"
+  },
+  "nome": "Manoel Quintino",
+  "telefone": "11999992632",
+  "email": "m.quintino@momento.org",
+  "dataAdmissao": {
+    "$date": "2025-10-19T23:59:07.322Z"
+  },
+  "cargo": "Contador",
+  "salario": 8700,
+  "departamento": {
+    "$oid": "85992103f9b3e0b3b3c1fe73"
+  },
+  "escritorio": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e3e"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f5770883a4184a518a4835"
+  },
+  "nome": "Daniela Cruz",
+  "telefone": "11996939498",
+  "email": "d.cruz@momento.org",
+  "dataAdmissao": {
+    "$date": "2025-10-19T23:59:07.322Z"
+  },
+  "cargo": "Analista de Planejamento Financeiro",
+  "salario": 9100,
+  "departamento": {
+    "$oid": "85992103f9b3e0b3b3c1fe73"
+  },
+  "escritorio": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e3e"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f5770883a4184a518a4836"
+  },
+  "nome": "José Matos",
+  "telefone": "1199992647",
+  "email": "j.matos@momento.org",
+  "dataAdmissao": {
+    "$date": "2025-10-19T23:59:07.322Z"
+  },
+  "cargo": "Coordenador Financeiro",
+  "salario": 9500,
+  "departamento": {
+    "$oid": "85992103f9b3e0b3b3c1fe73"
+  },
+  "escritorio": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e3e"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f5b5cc5314f19b00962e81"
+  },
+  "nome": "Vicky Maestre",
+  "telefone": "+55 (11) 98877-1001",
+  "email": "v.maestre@momento.org",
+  "dataAdmissao": "2025-10-10",
+  "cargo": "Coordenadora de Secretariado",
+  "salario": 12000,
+  "departamento": {
+    "$oid": "68f5b1cf5314f19b00962e80"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f5b5cc5314f19b00962e82"
+  },
+  "nome": "Rayssa da Cruz",
+  "telefone": "+55 (16) 91792-2045",
+  "email": "ray.cruz.@momento.org",
+  "dataAdmissao": "2025-10-10",
+  "cargo": "Diretora Administrativa",
+  "salario": 18000,
+  "departamento": {
+    "$oid": "68f5b1cf5314f19b00962e80"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f5b5cc5314f19b00962e83"
+  },
+  "nome": "Jão Marciel",
+  "telefone": "+55 (11) 99234-4850",
+  "email": "J.Marciel@momento.org",
+  "dataAdmissao": "2025-10-10",
+  "cargo": "Assistente Administrativo Sênior",
+  "salario": 11000,
+  "departamento": {
+    "$oid": "68f5b1cf5314f19b00962e80"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f5b5cc5314f19b00962e84"
+  },
+  "nome": "Beatriz Cruz",
+  "telefone": "+55 (11) 98267-2007",
+  "email": "b.cruz@momento.org",
+  "dataAdmissao": "2022-05-02",
+  "cargo": "Assistente de Secretariado",
+  "salario": 9000,
+  "departamento": {
+    "$oid": "68f5b1cf5314f19b00962e80"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f5b5cc5314f19b00962e85"
+  },
+  "nome": "Laura Belen",
+  "telefone": "+55 (11) 98297-2025",
+  "email": "l.Belen@momento.org",
+  "dataAdmissao": "2025-10-10",
+  "cargo": "Gerente de Operações Administrativas",
+  "salario": 13000,
+  "departamento": {
+    "$oid": "68f5b1cf5314f19b00962e80"
+  }
+}]
